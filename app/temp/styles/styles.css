@@ -1336,6 +1336,10 @@ a {
 			padding: 12px;
 			background-color:transparent
 	}
+
+			.primary-nav a.is-current-link {
+				color:#fabb69;
+			}
 	}
 
 .reveal-item {
